@@ -1,0 +1,8 @@
+/.idea/*.*
+/cmake-build-debug/*.*
+/.exe
+*.o
+*.a
+*.exe
+*.cmake
+!cmake/Modules/*.cmake
